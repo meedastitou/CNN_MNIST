@@ -39,6 +39,7 @@
 
 2. **Result Analysis**:
    - training loop is experiencing very little change in the loss values over multiple epochs, which suggests that the model is not learning effectively.
+     
      ![image](https://github.com/user-attachments/assets/227cd60d-6a8c-4531-9cec-4afb2837c5a9)
    
 
